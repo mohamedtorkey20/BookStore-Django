@@ -6,7 +6,7 @@ The BookStore Django project is a web application built using Django and Bootstr
 ## Installation
 To install and run the project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/mohamedtorkey20/BookStore-Django.git`
-2. Navigate into the project directory: `cd BookStore-Django`
+2. Navigate into the project directory: `cd BookStore-Django/BookStore`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Run migrations: `python manage.py migrate`
 5. Start the development server: `python manage.py runserver`
